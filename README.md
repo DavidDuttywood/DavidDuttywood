@@ -4,5 +4,5 @@
 
   どうぞよろしくお願いいたします。
   
-  This GitHub is not a portfolio, It's a dumping ground where my all of beautiful ideas go to die.
+  This GitHub is not a portfolio, It's a dumping ground where all of my beautiful ideas go to die.
 
